@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337197672222",
+    "project_id": "deeptalkchat",
+    "storage_bucket": "deeptalkchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337197672222:android:da8a733202a5a543380b0f",
+        "android_client_info": {
+          "package_name": "com.example.dechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337197672222-9v5n8det5rc0ailo101rkl9b3u0p0pda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC5H9oqukuh8PaUMgq8aamYeUwJAexMtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337197672222-9v5n8det5rc0ailo101rkl9b3u0p0pda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
